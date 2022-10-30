@@ -1,7 +1,7 @@
 use strict;
 use warnings;
 
-use Data::Dumper;
+use Data::Dumper; # convert output data into an list of strings .
 
 my $scalar = "string";
 
